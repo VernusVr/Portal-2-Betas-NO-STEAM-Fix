@@ -1,5 +1,6 @@
 # Hopefully a fix for the no steam error
 This Hopefully fixes Every build from the time period so you can navigate the menu
+ALSO YOU PROBALLY NEED TO OWN PORTAL 2 BECAUSE IT USES ITS APPID TO GET THE MENU LOADING
 
 
 # August menu
